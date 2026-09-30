@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-09-30 17:25:24">
+<sc_req_item action="INSERT_OR_UPDATE">
+<active>true</active>
+<activity_due/>
+<additional_assignee_list/>
+<approval>requested</approval>
+<approval_history/>
+<approval_set/>
+<assigned_to display_value=""/>
+<assignment_group display_value=""/>
+<backordered>false</backordered>
+<billable>false</billable>
+<business_duration/>
+<business_service display_value=""/>
+<calendar_duration/>
+<cat_item display_value="Standard Laptop">b39a1417d0e303107f44843df05646fa</cat_item>
+<close_notes/>
+<closed_at/>
+<closed_by display_value=""/>
+<cmdb_ci display_value=""/>
+<comments/>
+<comments_and_work_notes/>
+<company display_value=""/>
+<configuration_item display_value=""/>
+<contact_type/>
+<context display_value=""/>
+<contract display_value=""/>
+<correlation_display/>
+<correlation_id/>
+<delivery_plan display_value=""/>
+<delivery_task display_value=""/>
+<description/>
+<due_date>2026-09-30 17:10:38</due_date>
+<escalation>0</escalation>
+<estimated_delivery/>
+<expected_start/>
+<flow_context display_value="standard Laptop task">e57b9057d5e303100ab14c8ddbc3ce26</flow_context>
+<follow_up/>
+<group_list/>
+<impact>3</impact>
+<knowledge>false</knowledge>
+<location display_value=""/>
+<made_sla>true</made_sla>
+<number>RITM0010001</number>
+<opened_at>2026-09-30 17:10:38</opened_at>
+<opened_by display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</opened_by>
+<order/>
+<order_guide display_value=""/>
+<parent display_value=""/>
+<price>1100</price>
+<priority>4</priority>
+<quantity>1</quantity>
+<reassignment_count>0</reassignment_count>
+<recurring_frequency>yearly</recurring_frequency>
+<recurring_price>100</recurring_price>
+<rejection_goto display_value=""/>
+<request display_value="REQ0010001">e11bd817d0e303107f44843df05646ff</request>
+<requested_for display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</requested_for>
+<route_reason/>
+<sc_catalog display_value=""/>
+<service_offering display_value=""/>
+<short_description>Copy of Lenovo - Carbon x1</short_description>
+<sla_due/>
+<stage>request_approved</stage>
+<state>1</state>
+<sys_class_name>sc_req_item</sys_class_name>
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-09-30 17:10:38</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>651bd817d0e303107f44843df05646ff</sys_id>
+<sys_mod_count>2</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-09-30 17:12:17</sys_updated_on>
+<task_effective_number>RITM0010001</task_effective_number>
+<time_worked/>
+<universal_request display_value=""/>
+<upon_approval>proceed</upon_approval>
+<upon_reject>cancel</upon_reject>
+<urgency>3</urgency>
+<user_input/>
+<variables/>
+<watch_list/>
+<wf_activity display_value=""/>
+<work_end/>
+<work_notes/>
+<work_notes_list/>
+<work_start/>
+</sc_req_item>
+</unload>
